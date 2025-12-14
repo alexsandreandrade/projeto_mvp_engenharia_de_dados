@@ -8,6 +8,6 @@ Este repositório reúne os artefatos do projeto de Engenharia de Dados (MVP), i
 
 As pastas serão organizadas da seguinte forma:
 
-- `docs/` → documentação, PDF e materiais de apoio
+- `Arquivos de dados .cvs/` → arquivos de fonte de dados originais
 - `powerbi/` → arquivo .pbix do dashboard
 - `video/` → link para o vídeo de apresentação
