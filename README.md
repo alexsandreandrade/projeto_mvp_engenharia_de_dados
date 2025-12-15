@@ -6,7 +6,8 @@ Aluno: Alexsandre José Sá Barreto de Andrade - Matricula: 4052025002499
 Na raiz estão disponibilizados:
 - PDF com a descrição e evidências completas ""
 - PDF com as páginas do relatório em PowerBi com as respostas do projeto "(PDF) Página do relatório - Panorama Venda e rerrefino no Brasil.pdf"
-- Link para o vídeo de apresentação do projeto:
+
+- Link para o vídeo de apresentação do projeto: http://www.youtube.com
 
 Nas pastas estão disponibilizados:
 - `Arquivo powerbi/` com Arquivo fonte Power BI (.pbix) com o dashboard desenvolvido.
